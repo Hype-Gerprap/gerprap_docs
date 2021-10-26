@@ -13,7 +13,6 @@
 - mysql (localhost)
 - mysql workbench
 
-<!-- update -->
 
 ### Get Started:
 
