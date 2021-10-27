@@ -41,3 +41,10 @@ spring.jpa.hibernate.ddl-auto=create-drop
 ```
 
 note: We strongly recomend to use *create-drop* as *ddl-auto* on this stage, after the application is running you can use the *update* to persist tables information.
+
+### Swagger OpenAPI:
+> If you properly set the api to run on port:8085, start it and use this url to open the *OpenAPI* documentation, that provides an interface to teste crud funcionality and show the entities attributes:
+
+```
+http://localhost:8085/swagger-ui.html
+```
